@@ -1,0 +1,5 @@
+# Certificate and Log files
+*.pem
+
+# Log files
+log.txt
