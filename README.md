@@ -13,6 +13,12 @@ Clone this repo to test this webserver locally.
 
 #### Linux
 
+Run 
+
+```
+openssl req -x509 -nodes -days 22 -newkey rsa:4096 -keyout key.pem -out cert.pem
+```
+
 #### Mac
 
 Run
